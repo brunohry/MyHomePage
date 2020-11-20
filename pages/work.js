@@ -1,11 +1,11 @@
 import React from 'react';
 import MyBottomNavigation from '../Componentes/BottomNavigation'
 import Container from '@material-ui/core/Container';
-function Home(){
+function work(){
     return(
         <Container>
-            <h1> Home</h1>
-            <MyBottomNavigation page= 'index'/>
+            <h1> work</h1>
+            <MyBottomNavigation page= 'work'/>
         </Container> 
 
     )  
@@ -13,4 +13,4 @@ function Home(){
 
 
 
-export default Home
+export default work
