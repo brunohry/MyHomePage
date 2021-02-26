@@ -212,7 +212,7 @@ class GameImpl {
                         i = 0;
                         j = 0;
                     }
-                    await display.AsyncDisplay(game.board,50);
+                    await display.AsyncDisplay(game.board,20);
                 }
             }
         }
