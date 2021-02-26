@@ -224,7 +224,7 @@ class GameImpl {
             for (var j = 0; j < this.board.length; j++) {
                 if(this.board[i][j] == null ){
                     this.board[i][j] = this.generator.generate();
-                    await display.AsyncDisplay(game.board, 50)
+                    await display.AsyncDisplay(game.board, 100)
                 }
             }
         }
