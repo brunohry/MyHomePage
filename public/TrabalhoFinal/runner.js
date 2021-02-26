@@ -1,7 +1,7 @@
 
 
 var iconmappr = {
-    0 :'<div id="XXX" class="col play-col"><img class="jewel" src="./TrabalhoFinalimgs/bootstrap.png" alt=""></div>',
+    0 :'<div id="XXX" class="col play-col"><img class="jewel" src="./TrabalhoFinal/imgs/bootstrap.png" alt=""></div>',
     1 : '<div id="XXX" class="col play-col"><img class="jewel" src="/TrabalhoFinal/imgs/php.png" alt=""></div>',
     2 : '<div id="XXX" class="col play-col"><img class="jewel" src="/TrabalhoFinal/imgs/python.png" alt=""></div>',
     3 : '<div id="XXX" class="col play-col"><img class="jewel" src="/TrabalhoFinal/imgs/html.png" alt=""></div>',
